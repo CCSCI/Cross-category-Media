@@ -4,4 +4,5 @@
 ## Domain category
 - blockchain
 - quantum computer
-- Graph analysis
+- graph analysis
+- brain computer interface(BCI)
