@@ -74,8 +74,9 @@
 ### 量子叠加态
 
 
-##参考阅读
+## 参考阅读
 
 https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer
 
+https://github.com/cristicmf/Q-learn
 
