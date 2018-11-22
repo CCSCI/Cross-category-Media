@@ -80,3 +80,6 @@ https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-p
 
 https://github.com/cristicmf/Q-learn
 
+https://v.youku.com/v_show/id_XNTk5Mjg4OTI4.html?spm=a2h0j.11185381.mdlikeshow.1~3~5~5~A
+
+
