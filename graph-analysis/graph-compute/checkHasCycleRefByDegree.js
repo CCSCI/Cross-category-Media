@@ -108,7 +108,6 @@
       //  初始化出度,并且构建反向引用inNodes,到父节点.
       for (var node of allNodes) {
           container[node.id].outdgree = node.wires[0].length
-          var outNodes = []
           for (var i in node.wires) {
               for (var e of node.wires[i]) {
                   container[e].inNodes.push(container[node.id])
@@ -131,7 +130,6 @@
       } while (lastCount !== Object.keys(container).length)
 
       if (lastCount === 0) {
-          
           return false
       } else {
           return true
