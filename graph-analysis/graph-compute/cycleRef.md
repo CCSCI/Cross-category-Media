@@ -16,3 +16,4 @@
 2. 从特征出发.
 有环就意味着必然有个节点入度不为0. 那算法思路就是删除入度为零的节点.能删完则无环,删不完则有环.
 同理,也可从出度为零的删起.
+[checkHasCycleRefByDegree.js](./checkHasCycleRefByDegree.js) 就是基于这种思路循环检测是否有环.
